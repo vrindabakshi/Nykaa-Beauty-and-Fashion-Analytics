@@ -20,7 +20,6 @@ This project combines **SQL-based data analysis** with an interactive **Power BI
 
 - **SQL** – Data analysis, queries, joins, subqueries, CTEs, window functions, stored procedures and triggers
 - **Power BI** – Data visualization, DAX measures, KPIs and interactive dashboards
-- **Microsoft Excel** – Data handling and supporting analysis
 
 ## Dashboard
 
